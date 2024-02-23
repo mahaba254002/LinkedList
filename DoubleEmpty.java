@@ -1,7 +1,7 @@
+//Custom linkedlist
 class Node {
   int data;
-  Node previous;
-  Node next;
+  Node previous, next;
 
   public Node(int data) {
     this.data = data;
